@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.login{
+  padding: 2px;
+}
+.login>h1{
+  color:#61dafb;
+}
+.login>input{
+  border-radius: 5px;
+  color:#282c34;
+  margin-bottom: 1px;
+  background-color:#61dafb;
+}
+img{
+  border-radius: 10px;
+}
+
